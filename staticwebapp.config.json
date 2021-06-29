@@ -1,8 +1,7 @@
 {
     "navigationFallback": {
         "rewrite": "/index.html"
-    ,
-    }
+    },
     "globalHeaders": {
       "referrer-policy": "strict-origin-when-cross-origin"
     }
